@@ -11,6 +11,7 @@ cap3 - em aberto
 cap4 - em aberto
 cap5 - em aberto
 cap6 - em aberto
+cap6 - Em processo de tradução por Anderson de Castro.
 cap7 - em aberto
 cap8 - em aberto
 cap9 - em aberto
